@@ -125,11 +125,12 @@ ACTIVITY MAIN - XML
 ## OUTPUT
 
 
-<img width="1000" height="1000" alt="Screenshot (96)" src="https://github.com/user-attachments/assets/79adb027-2328-4b87-8152-4392371c565e" />
+<img width="900" height="900" alt="Screenshot (100)" src="https://github.com/user-attachments/assets/90fe2680-9699-4214-9045-11dfc21f102e" />
 
-<img width="1000" height="1000" alt="Screenshot (97)" src="https://github.com/user-attachments/assets/e6c6df8f-19e7-4692-aa19-2b53a98d20c7" />
+<img width="900" height="900" alt="Screenshot (101)" src="https://github.com/user-attachments/assets/964b5068-94f7-4275-9129-621f18fb9b84" />
 
-<img width="1000" height="1000" alt="Screenshot (98)" src="https://github.com/user-attachments/assets/7e2e1598-1588-4ae4-b871-b9ccb07d00ef" />
+<img width="900" height="900" alt="Screenshot (102)" src="https://github.com/user-attachments/assets/c4d2f759-f9f3-4f69-85d4-34c369f42265" />
+
 
 
 ## RESULT
